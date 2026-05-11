@@ -108,7 +108,7 @@ Tasks
 
 Maintainers
 ===============
-Israel Gilyadov <israelg99@gmail.com>
+Julian Gilyadov <mail@julian.im>
 
 Great web-development solutions 
 ====================================
